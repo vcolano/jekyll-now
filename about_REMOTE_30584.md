@@ -12,10 +12,6 @@ I'm a machine learning software engineer in NYC. I work for IBM Watson Health. I
 
 [GitHub](https://github.com/vcolano)
 
-<<<<<<< HEAD
-[email@domain.com](mailto:email@domain.com)
->>>>>>> e57108c4247e647c5ed3c90552b0259a7b9696ca
-=======
 [LinkedIn](https://www.linkedin.com/in/vito-colano-a090865b/)
 
 [Resume](https://drive.google.com/file/d/0Bzc8faOK4sArbkFJMjNqTEo2dU0/view?usp=sharing)

@@ -7,11 +7,15 @@ name: Vito A. Colano
 
 # Short bio or description (displayed in the header)
 <<<<<<< HEAD
-<<<<<<< HEAD
 description: Adventures of an aspiring machine learning wizard.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.pn
+=======
+description: Adventures of an aspiring machine learning wizard...
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -20,10 +24,10 @@ description: Adventures of an aspiring machine learning wizard.
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: vcolano@gmail.com
+  email:
   facebook:
   flickr:
-  github: https://github.com/vcolano
+  github: 
   instagram:
   linkedin:
   pinterest:
@@ -50,6 +54,7 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+>>>>>>> e57108c4247e647c5ed3c90552b0259a7b9696ca
 
 #
 # !! You don't need to change any of the configuration flags below !!
