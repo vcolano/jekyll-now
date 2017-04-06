@@ -23,5 +23,5 @@ I'm a machine learning software engineer in NYC. I work for IBM Watson Health. I
 * 3 long-distance motorcycle trips
   * Lake George, NY --> Montreal, QC --> Burlington, Wisconsin: 1,100 miles
   * Burlington, Wisconsin --> San Jose, CA: 2,400 miles
-  * Burlington, Wisconsin --> Montreal, QC --> Tadoussac, QC and back: 2400 miles
+  * Burlington, Wisconsin --> Montreal, QC --> Tadoussac, QC and back: 2,400 miles
 * 10-month high-school exchange to France - Academic year 2010/2011
