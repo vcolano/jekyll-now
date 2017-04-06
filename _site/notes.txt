@@ -1,2 +1,0 @@
-based off of:
-https://github.com/barryclark/jekyll-now
