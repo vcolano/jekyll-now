@@ -1,4 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Hello World!
 ---
+
+Real posts coming soon...
