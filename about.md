@@ -4,14 +4,24 @@ title: About
 permalink: /about/
 ---
 
-I'm a machine learning software engineer in NYC. I work for IBM Watson Health. I like to work on data projects in my free time.
+I'm a machine learning software engineer in NYC. I work for IBM Watson Health. I like to work on data projects in my free time. I love to travel, too.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+### Links
 
 [vcolano@gmail.com](mailto:vcolano@gmail.com)
+
+[GitHub](https://github.com/vcolano)
+
 [LinkedIn](https://www.linkedin.com/in/vito-colano-a090865b/)
+
 [Resume](https://drive.google.com/file/d/0Bzc8faOK4sArbkFJMjNqTEo2dU0/view?usp=sharing)
+
+### Travels
+
+* 5-month backpacking trip across the French Caribbeans, Europe and Morocco - Winter/Spring 2016
+* 10-month exchange at Thammasat University in Rangsit, Thailand - Academic year 2014/2015
+* 3 long-distance motorcycle trips
+  * Lake George, NY --> Montreal, QC --> Burlington, Wisconsin: 1,100 miles
+  * Burlington, Wisconsin --> San Jose, CA: 2,200 miles
+  * Burlington, Wisconsin --> Montreal, QC --> Tadoussac, QC and back: 2400 miles
+* 10-month high-school exchange to France - Academic year 2010/2011
