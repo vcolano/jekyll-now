@@ -7,4 +7,5 @@ In 2014 the New York Times filed a freedom of information act request and receiv
 
 Out of all of money spent by civilian law enforcement agencies through the 1033 program from 2006-2014 \$609,879,850(48%) was spent on combat-oriented equipment. The rest of this analysis was produced using the combat-oriented subset.
 
-
+State-level analysis
+<img style="float: right;" src="images/topStateSpenders.png"><img style="float:left;" src="images/topStateSpendersPerCapita.png">
