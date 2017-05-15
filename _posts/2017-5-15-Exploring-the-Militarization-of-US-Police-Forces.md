@@ -11,13 +11,13 @@ Out of all of money spent by civilian law enforcement agencies through the 1033 
 
 ## Some Notable Acquired Items 
 
-![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/onlyCompleteCombatWheeledVehicle.jpg){:height="400px" width="400px"}
+![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/onlyCompleteCombatWheeledVehicle.jpg){:width="450px"}
 
 Combat Wheeled Vehicle  
 98 aquired  
 $45,080,000 total  
   
-    <img align="middle" src="policeMilitarySurplus/images/rifle556.jpg" width="450">  
+<img align="middle" src="policeMilitarySurplus/images/rifle556.jpg" width="450">  
 6.65mm Rifle  
 61,548 acquired  
 $30,712,452 total     
