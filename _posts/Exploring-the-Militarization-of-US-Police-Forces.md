@@ -11,7 +11,8 @@ Out of all of money spent by civilian law enforcement agencies through the 1033 
 
 ## Some Notable Acquired Items 
 
-<img align="middle" src="policeMilitarySurplus/images/onlyCompleteCombatWheeledVehicle.jpg" width="450">  
+![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/onlyCompleteCombatWheeledVehicle.jpg)  
+
 Combat Wheeled Vehicle  
 98 aquired  
 $45,080,000 total  
