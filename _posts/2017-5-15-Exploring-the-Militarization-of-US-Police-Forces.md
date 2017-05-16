@@ -11,7 +11,7 @@ Out of all of money spent by civilian law enforcement agencies through the 1033 
 
 ## Some Notable Acquired Items 
 
-![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/onlyCompleteCombatWheeledVehicle.jpg){:width="450px"}
+![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/onlyCompleteCombatWheeledVehicle.jpg){:width="450px"}  
 Combat Wheeled Vehicle  
 98 aquired  
 $45,080,000 total  
@@ -52,10 +52,12 @@ $147,600 total
 ![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/topStateSpenders.png){:width="600px"}
 
 ![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/topStateSpendersPerCapita.png){:width="600px"}
+Alabama, Tennessee and Oklahoma are notable outliers, they are all in the top-10 before and after adjusting for population.   
 
 ![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/topStateSpendersMap.png){:width="600px"}
 
 ![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/topStateSpendersPerCapitaMap.png){:width="600px"}  
+We can see that the southern and central states have more spending than the coasts.
 
 ## County-Level Analysis
 
