@@ -79,6 +79,6 @@ The most telling factors are the top three. The positive correlation of total po
 We also see that whiter, more rural and older counties slightly tend to have less spending while more educated and urban counties slightly tend to have more.  
 
 ## Reference
-
+ 
 For more information please see the [R markdown file](https://rawgit.com/vcolano/policeMilitarySurplus/master/exploratoryAnalysis.html) and [github repo](https://github.com/vcolano/policeMilitarySurplus) for this analysis.
 
