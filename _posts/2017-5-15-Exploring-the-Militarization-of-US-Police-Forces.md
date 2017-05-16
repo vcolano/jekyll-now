@@ -51,7 +51,7 @@ $147,600 total
 
 ![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/topStateSpenders.png){:width="600px"}
 
-![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/topStateSpendersPerCapita.png){:width="600px"}
+![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/topStateSpendersPerCapita.png){:width="600px"}  
 Alabama, Tennessee and Oklahoma are notable outliers, they are all in the top-10 before and after adjusting for population.   
 
 ![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/topStateSpendersMap.png){:width="600px"}
