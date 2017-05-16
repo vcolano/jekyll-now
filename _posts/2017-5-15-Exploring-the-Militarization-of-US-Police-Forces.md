@@ -80,5 +80,5 @@ We also see that whiter, more rural and older counties slightly tend to have les
 
 ## Reference
 
-For more information please see the [R markdown file](https://raw.githubusercontent.com/vcolano/policeMilitarySurplus/exploratoryAnalysis.html) and [github repo](https://github.com/vcolano/policeMilitarySurplus) for this analysis.
+For more information please see the [R markdown file](https://rawgit.com/vcolano/policeMilitarySurplus/master/exploratoryAnalysis.html) and [github repo](https://github.com/vcolano/policeMilitarySurplus) for this analysis.
 
