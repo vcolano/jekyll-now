@@ -17,7 +17,7 @@ Combat Wheeled Vehicle
 $45,080,000 total  
   
 ![](https://raw.githubusercontent.com/vcolano/vcolano.github.io/master/_posts/policeMilitarySurplus/images/rifle556.jpg){:width="450px"}  
-6.65mm Rifle  
+5.56mm Rifle  
 61,548 acquired  
 $30,712,452 total     
    
