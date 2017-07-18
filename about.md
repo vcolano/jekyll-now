@@ -14,7 +14,7 @@ I'm a machine learning software engineer in NYC. I work for IBM Watson Health. I
 
 [LinkedIn](https://www.linkedin.com/in/vito-colano-a090865b/)
 
-[Resume](https://drive.google.com/file/d/0Bzc8faOK4sArbkFJMjNqTEo2dU0/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/0Bzc8faOK4sArWW02MFJycU9JN2M/view?usp=sharing)
 
 ### Travels
 
