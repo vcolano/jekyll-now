@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a machine learning software engineer in NYC. I work for IBM Watson Health. I like to work on data projects in my free time. I love to travel, too.
+I'm a machine learning software engineer in NYC. I work for Precision Health AI. I like to work on data projects in my free time. I love to travel, too.
 
 ### Links
 
